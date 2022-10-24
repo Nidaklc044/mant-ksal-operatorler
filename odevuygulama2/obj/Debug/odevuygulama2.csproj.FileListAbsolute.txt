@@ -1,0 +1,8 @@
+C:\Users\Nida\source\repos\odevuygulama2\odevuygulama2\bin\Debug\odevuygulama2.exe.config
+C:\Users\Nida\source\repos\odevuygulama2\odevuygulama2\bin\Debug\odevuygulama2.exe
+C:\Users\Nida\source\repos\odevuygulama2\odevuygulama2\bin\Debug\odevuygulama2.pdb
+C:\Users\Nida\source\repos\odevuygulama2\odevuygulama2\obj\Debug\odevuygulama2.csproj.AssemblyReference.cache
+C:\Users\Nida\source\repos\odevuygulama2\odevuygulama2\obj\Debug\odevuygulama2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida\source\repos\odevuygulama2\odevuygulama2\obj\Debug\odevuygulama2.csproj.CoreCompileInputs.cache
+C:\Users\Nida\source\repos\odevuygulama2\odevuygulama2\obj\Debug\odevuygulama2.exe
+C:\Users\Nida\source\repos\odevuygulama2\odevuygulama2\obj\Debug\odevuygulama2.pdb
